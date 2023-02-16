@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+canvas {
+  background: white;
+}
+
+h1 {
+  position: relative;
+  left: 270px;
+  bottom: 320px;
+  color: white;
+  font-family: "ArcadeClassic", sans-serif;
+  font-size: 50px;
+}
+
+p {
+  position: relative;
+  left: 600px;
+  bottom: 300px;
+  color: white;
+  font-family: "ArcadeClassic", sans-serif;
+  font-size: 50px;
+}
